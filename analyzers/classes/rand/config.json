@@ -1,0 +1,15 @@
+{
+    "description": "",
+    "folderName": "rand",
+    "initParams": [
+        {
+            "defaultValue": 8,
+            "description": "Определяет объём данных, подаваемых на анализ. Должен быть натуральным числом.",
+            "name": "Размер входного слоя",
+            "variableName": "inputSize"
+        }
+    ],
+    "name": "Random",
+    "pythonClassName": "RandomAnalyzer",
+    "pythonFileName": "rand"
+}

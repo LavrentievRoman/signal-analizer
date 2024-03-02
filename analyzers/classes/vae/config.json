@@ -1,0 +1,15 @@
+{
+    "description": "",
+    "folderName": "vae",
+    "initParams": [
+        {
+            "defaultValue": 256,
+            "description": "Количество нейронов во входном слое (равно количеству значений в сжимаемом фрагменте).",
+            "name": "Размер входного слоя",
+            "variableName": "inputSize"
+        }
+    ],
+    "name": "VAE",
+    "pythonClassName": "VaeModel",
+    "pythonFileName": "vae"
+}

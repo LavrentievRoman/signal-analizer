@@ -1,0 +1,21 @@
+{
+    "analyzers": {
+        "classes": [
+            "ecdf",
+            "rand",
+            "vae"
+        ],
+        "current": -1
+    },
+    "historyServer": {
+        "source": ""
+    },
+    "operativeServer": {
+        "source": "",
+        "valuesPerSec": 1000
+    },
+    "timeInterval": {
+        "units": "Hours",
+        "value": 6
+    }
+}
